@@ -10,6 +10,7 @@
         "istream": "cpp",
         "functional": "cpp",
         "utility": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "ostream": "cpp"
     }
 }
